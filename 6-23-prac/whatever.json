@@ -1,0 +1,14 @@
+{
+    "name": "James",
+    "age": 18,
+    "city": "Paris",
+    "grades": [
+        90,
+        82,
+        75
+    ],
+    "languages": [
+        "English",
+        "French"
+    ]
+}

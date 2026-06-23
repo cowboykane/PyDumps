@@ -1,0 +1,20 @@
+[
+    {
+        "server_id": "vm-02",
+        "role": "api-gateway",
+        "environment": "staging",
+        "status": "offline"
+    },
+    {
+        "server_id": "vm-04",
+        "role": "db-primary",
+        "environment": "production",
+        "status": "offline"
+    },
+    {
+        "server_id": "vm-05",
+        "role": "cache-redis",
+        "environment": "dev",
+        "status": "offline"
+    }
+]
